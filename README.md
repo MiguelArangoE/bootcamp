@@ -1,14 +1,16 @@
 # bootcamp
 ---
-## Repositorio de presentación
+## Repositorio de apoyo
 
-Este repositorio fue realizado como una actividad y oportunidad para presentarme.
+Este repositorio fue creado para el desarrollo de mis habilidades como programador.
+-Estado-
+"Test"
 ---
 
 
 
 
 -------------------------
-Creador por [Miguel Ángel](https://github.com/MiguelArangoE)
+Creador por: [Miguel Ángel](https://github.com/MiguelArangoE)
 -------------------------
 
